@@ -1,3 +1,2 @@
-# Soul_QuizApp
-for Soulaimane git course
-## Quiz App Project
+# Simple Quiz App
+Simple Quiz Application using JavaScript
